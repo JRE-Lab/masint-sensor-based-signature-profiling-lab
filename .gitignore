@@ -1,0 +1,12 @@
+diff --git a/.gitignore b/.gitignore
+new file mode 100644
+index 0000000000000000000000000000000000000000..a069f66b1b9e0e04a0a2048049dbc21d23a1df18
+--- /dev/null
++++ b/.gitignore
+@@ -0,0 +1,6 @@
++.venv/
++__pycache__/
++*.pyc
++outputs/
++data/raw/
++data/processed/
